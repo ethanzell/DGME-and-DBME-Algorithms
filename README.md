@@ -6,6 +6,6 @@ The DGME and DBME algorithms are contained in separate notebooks with those name
 
 At the end of each notebook are visualization classes that were used to create the graphs from the paper. The models used to create the graphs are also included in this repository. 
 
-The folder Most_Models contains all the relevant DGME models and three DBME models (those with the smaller associated partition steps); the restriction is because the number of neural networks becomes large as the partition size increases. The remaining two DBME results are in .zip format within the All_Models_Zipped folder. 
+The folder Most_Models contains all the relevant DGME models and three DBME models (those with the smaller associated partition steps); the restriction is because the number of neural networks becomes large as the partition size increases. The remaining two DBME results are in .zip format within the All_Models_Zipped folder. As the name implies, All_Models_Zipped also contains all other models in zipped format.
 
 The two main DGME models have the substring dgm in the name, while the DBME neural network meshes have mesh in the name. 
