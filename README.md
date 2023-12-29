@@ -2,7 +2,7 @@
 
 This repository gives the implementation of the DGME and DBME algorithms from the paper _Deep Backward and Galerkin Methods for Learning Finite State Master Equations_ by Asaf Cohen, Mathieu Laurière and Ethan Zell. Specfically, the code given here pertains to Example 7.1 in the paper. 
 
-The DGME and DBME algorithms are contained in separate notebooks with those names. Recall from the paper that the DGME output is a single neural network while the output from the DBME is a "mesh" of neural networks along a given partition of $[0,T]$.
+The DGME and DBME algorithms are contained in separate notebooks with those names. Recall from the paper that the DGME output is a single neural network while the output from the DBME is a "mesh" of neural networks along a given partition of the time interval $[0,T]$.
 
 At the end of each notebook are visualization classes that were used to create the graphs from the paper. The models used to create the graphs are also included here. 
 
