@@ -2,7 +2,7 @@
 
 This repository gives the implementation of the DGME and DBME algorithms from the paper _Deep Backward and Galerkin Methods for Learning Finite State Master Equations_ by Asaf Cohen, Mathieu Laurière and Ethan Zell. Specfically, the code given here pertains to Example 7.1 in the paper.
 
-The DBME_Simple and DGME_Simple notebooks are ready-to-run notebooks with a limited visualization component. For any curious reader, this will likely be all you need. 
+**The DBME_Simple and DGME_Simple notebooks are ready-to-run notebooks with a limited visualization component. For any curious reader, this will likely be all you need. **
 
 For the remaining description of this repository and the full information for the visualizations in the paper:
 
